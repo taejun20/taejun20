@@ -1,6 +1,6 @@
 ### Greetings! 👋
 
-I am a PhD candidate at <a href="https://hcil.kaist.ac.kr/">HCI Lab</a> in KAIST. My curiosity lies in discovering the maximum potential of utilizing our eyes for Human-Computer Interaction, researching opportunities and challenges of gaze-based interactions. Beyond my primary interest, I also have a fascination with haptics and various text entry techniques.
+I am a PhD candidate at <a href="https://hcil.kaist.ac.kr/">HCI Lab</a> in KAIST. My research focuses on understanding human oculomotor behaviors and identifying new opportunities to enhance vision- and eye-related user interactions. In addition to this primary interest, I've explored various topics such as haptics and text entry.
 
 I've presented several projects at top-tier HCI conferences such as ACM CHI and UIST. If you're interested, please feel free to explore my website and repositories!
 

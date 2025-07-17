@@ -1,6 +1,6 @@
 ### Greetings! 👋
 
-I am a PhD candidate at <a href="https://hcil.kaist.ac.kr/">HCI Lab</a> in KAIST. My research interest lies in eye tracking, gaze-based interaction method and analysis, AR/VR, and understanding and modeling of user behavior.
+I am a PhD candidate at <a href="https://hcil.kaist.ac.kr/">HCI Lab</a> in KAIST. My research interests lie in eye tracking, gaze-based interaction method and analysis, AR/VR, and understanding and modeling of user behavior.
 
 I've presented several projects at top-tier HCI conferences such as ACM CHI and UIST. If you're interested, please feel free to explore my website and repositories!
 

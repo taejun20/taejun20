@@ -1,10 +1,8 @@
 ### Greetings! 👋
 
-I am a PhD candidate at <a href="https://hcil.kaist.ac.kr/">HCI Lab</a> in KAIST. My research interests lie in eye tracking, gaze-based interaction method and analysis, AR/VR, and understanding and modeling of user behavior.
+I am a fresh Ph.D. in Computer Science from KAIST. My specialty is in applied machine learning for physical interfaces & HCI methods for user study and analysis. My doctoral research spanned multiple domains, including eye tracking, gaze analysis, XR/VR, and haptics. I've presented several projects at top-tier HCI conferences such as ACM CHI and UIST. If you're interested, please feel free to explore my website and repositories!
 
-I've presented several projects at top-tier HCI conferences such as ACM CHI and UIST. If you're interested, please feel free to explore my website and repositories!
-
-- 📫 How to reach me: taejun.kim@kaist.ac.kr
+- 📫 How to reach me: taejunkim.me@gmail.com
 - 🏡 Website: https://taejunkim.com
 <!--
 **taejun20/taejun20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

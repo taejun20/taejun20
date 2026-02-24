@@ -4,7 +4,7 @@ I am a fresh Ph.D. in Computer Science from KAIST. My specialty is in applied ma
 
 I've presented several projects at top-tier HCI conferences such as ACM CHI and UIST. If you're interested, please feel free to explore my website and repositories!
 
-- 📫 Reach: taejunkim.me@gmail.com
+- 📫 Reach: taejunkim.me at gmail.com
 - 🏡 Website: https://taejunkim.com
 <!--
 **taejun20/taejun20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

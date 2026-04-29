@@ -1,6 +1,6 @@
 ### Greetings! 👋
 
-I recently completed my Ph.D. in Computer Science from KAIST. My specialty is in applied machine learning for physical interfaces & HCI methods for user study and analysis. My doctoral research spanned multiple domains, including eye tracking, gaze analysis, XR/VR, and haptics.
+I am Taejun. I recently completed my Ph.D. in Computer Science from KAIST. My specialty is in applied machine learning for mobile and wearable devices & HCI methods for user study and analysis. My doctoral research spanned multiple domains, including eye tracking, extended reality, and wearable haptics.
 
 I've presented several projects at top-tier HCI conferences such as ACM CHI and UIST. If you're interested, please feel free to explore my website and repositories!
 
